@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid black;
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  width: 80%;
+  margin: 20px;
+  height: 30px;
+  border: 1px solid red;
+  padding-left: 30px;
+}
+
